@@ -28,15 +28,6 @@ Welkom bij het digitale, psychologische dossier van het Vlaamse dorpje **Blaasho
 - [Machteld](./personages/machteld) - Het mooie meisje uit de stad op wie Wesley Bracke hopeloos verliefd is.
 - [De Gezondheidsinspecteur](./personages/gezondheidsinspecteur) - De man van de inspectie diens hoofd door Herman met een hakbijl wordt doorkliefd.
 
-### 📍 Ruimte & Locaties
-
-- [Dorp Blaashoek](./ruimte/blaashoek) - Het decor van de thriller.
-- [De Windmolens](./ruimte/windmolens) - De bron van de constante, irritante brom.
-
-### ⚡ Het Conflict
-
-- [De Escalatie-Tijdlijn](./gebeurtenissen/escalatie-tijdlijn) - Hoe een slaaptekort leidde tot een tragedie.
-
 ---
 
 _Deze website is gemaakt als creatieve verwerking voor de boekopdracht mondeling proefwerk Nederlands._
