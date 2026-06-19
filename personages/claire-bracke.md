@@ -15,9 +15,9 @@ title: Claire Bracke
 
 ## 🔗 Relaties
 
-- **[Herman Bracke](herman-bracke):** Haar echtgenoot.
-- **[Wesley Bracke](wesley-bracke):** Haar 17-jarige zoon.
+- **[Herman Bracke](../herman-bracke):** Haar echtgenoot.
+- **[Wesley Bracke](../wesley-bracke):** Haar 17-jarige zoon.
 
 ---
 
-[⬅️ Terug naar de startpagina](/)
+[⬅️ Terug naar de startpagina](..//)

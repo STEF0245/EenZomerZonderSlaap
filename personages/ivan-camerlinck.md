@@ -12,3 +12,7 @@ title: Ivan Camerlinck
 | **Leeftijd**   | Volwassen man                    |
 | **Uiterlijk**  | Komt een beetje eng over         |
 | **Karakter**   | Stiekem, gluurderig, kwaadaardig |
+
+---
+
+[⬅️ Terug naar de startpagina](..//)

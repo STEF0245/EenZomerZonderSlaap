@@ -15,5 +15,9 @@ title: Opa Maes
 
 ### 🔗 Relaties
 
-- **[Saskia Maes](saskia-maes):** Zijn doodsbange kleindochter.
-- **[Bienvenue](bienvenue):** Wordt door hem door het hoofd geschoten.
+- **[Saskia Maes](../saskia-maes):** Zijn doodsbange kleindochter.
+- **[Bienvenue](../bienvenue):** Wordt door hem door het hoofd geschoten.
+
+---
+
+[⬅️ Terug naar de startpagina](..//)

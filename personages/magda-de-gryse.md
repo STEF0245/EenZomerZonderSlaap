@@ -15,4 +15,8 @@ title: Magda De Gryse
 
 ## 🔗 Relaties
 
-- **[Walter De Gryse](walter-de-gryse):** Haar echtgenoot.
+- **[Walter De Gryse](../walter-de-gryse):** Haar echtgenoot.
+
+---
+
+[⬅️ Terug naar de startpagina](..//)

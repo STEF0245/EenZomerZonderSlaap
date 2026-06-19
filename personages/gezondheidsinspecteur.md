@@ -12,3 +12,7 @@ title: De Gezondheidsinspecteur
 | **Leeftijd**  | Volwassen man                       |
 | **Uiterlijk** | _Niet gespecificeerd_               |
 | **Karakter**  | Plichtsgetrouw, standvastig         |
+
+---
+
+[⬅️ Terug naar de startpagina](..//)

@@ -15,5 +15,9 @@ title: Jan Lietaer
 
 ## 🔗 Relaties
 
-- **[Catherine Lietaer](catherine-lietaer):** Zijn overspelige echtgenote.
-- **[Saskia Maes](saskia-maes):** Zijn kortstondige secretaresse.
+- **[Catherine Lietaer](../catherine-lietaer):** Zijn overspelige echtgenote.
+- **[Saskia Maes](../saskia-maes):** Zijn kortstondige secretaresse.
+
+---
+
+[⬅️ Terug naar de startpagina](..//)

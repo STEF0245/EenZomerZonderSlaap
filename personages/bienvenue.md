@@ -15,5 +15,9 @@ title: Bienvenue
 
 ## 🔗 Relaties
 
-- **[Catherine Lietaer](catherine-lietaer):** Zijn geheime geliefde.
-- **[Saskia Maes](saskia-maes):** Zijn onderbuur.
+- **[Catherine Lietaer](../catherine-lietaer):** Zijn geheime geliefde.
+- **[Saskia Maes](../saskia-maes):** Zijn onderbuur.
+
+---
+
+[⬅️ Terug naar de startpagina](..//)

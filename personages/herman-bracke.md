@@ -15,9 +15,9 @@ title: Herman Bracke
 
 ## 🔗 Relaties
 
-- **[Claire Bracke](claire-bracke):** Zijn echtgenote.
-- **[Wesley Bracke](wesley-bracke):** Zijn 17-jarige zoon.
+- **[Claire Bracke](../claire-bracke):** Zijn echtgenote.
+- **[Wesley Bracke](../wesley-bracke):** Zijn 17-jarige zoon.
 
 ---
 
-[⬅️ Terug naar de startpagina](/)
+[⬅️ Terug naar de startpagina](..//)

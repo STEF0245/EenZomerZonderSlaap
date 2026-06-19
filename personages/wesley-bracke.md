@@ -15,10 +15,10 @@ title: Wesley Bracke
 
 ## 🔗 Relaties
 
-- **[Claire Bracke](claire-bracke):** Zijn moeder.
-- **[Herman Bracke](herman-bracke):** Zijn vader.
-- **[Machteld](machteld):** Zijn onbereikbare liefde uit de stad.
+- **[Claire Bracke](../claire-bracke):** Zijn moeder.
+- **[Herman Bracke](../herman-bracke):** Zijn vader.
+- **[Machteld](../machteld):** Zijn onbereikbare liefde uit de stad.
 
 ---
 
-[⬅️ Terug naar de startpagina](/)
+[⬅️ Terug naar de startpagina](..//)

@@ -15,5 +15,9 @@ title: Zeppos
 
 ## 🔗 Relaties
 
-- **[Saskia Maes](saskia-maes):** Zijn baasje.
-- **[Ivan Camerlinck](ivan-camerlinck):** De apotheker die hem vergiftigt.
+- **[Saskia Maes](../saskia-maes):** Zijn baasje.
+- **[Ivan Camerlinck](../ivan-camerlinck):** De apotheker die hem vergiftigt.
+
+---
+
+[⬅️ Terug naar de startpagina](..//)

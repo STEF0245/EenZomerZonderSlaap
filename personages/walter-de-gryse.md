@@ -15,4 +15,8 @@ title: Walter De Gryse
 
 ## 🔗 Relaties
 
-- **[Magda De Gryse](magda-de-gryse):** Zijn jaloerse echtgenote.
+- **[Magda De Gryse](../magda-de-gryse):** Zijn jaloerse echtgenote.
+
+---
+
+[⬅️ Terug naar de startpagina](..//)

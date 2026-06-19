@@ -15,5 +15,9 @@ title: Catherine Lietaer
 
 ## 🔗 Relaties
 
-- **[Jan Lietaer](jan-lietaer):** Haar echtgenoot.
-- **[Bienvenue](bienvenue):** Haar minnaar.
+- **[Jan Lietaer](../jan-lietaer):** Haar echtgenoot.
+- **[Bienvenue](../bienvenue):** Haar minnaar.
+
+---
+
+[⬅️ Terug naar de startpagina](..//)
