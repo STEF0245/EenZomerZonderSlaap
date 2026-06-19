@@ -19,4 +19,4 @@ title: Magda De Gryse
 
 ---
 
-[⬅️ Terug naar de startpagina](..//)
+[⬅️ Terug naar de startpagina](../../)

@@ -20,4 +20,4 @@ title: Zeppos
 
 ---
 
-[⬅️ Terug naar de startpagina](..//)
+[⬅️ Terug naar de startpagina](../../)
